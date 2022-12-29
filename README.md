@@ -22,6 +22,7 @@
 | [SimpleBashUtils](https://github.com/abceff/SimpleBashUtils) | Implementation of of Bash text utilities: cat, grep                                              | C, Make, Check tests                                                      |
 | [string.h](https://github.com/abceff/string.h)        | Implementation of some functions of the string.h library                                         | C, Make, Check tests                                                      |
 | [JavaIntensive](https://github.com/abceff/JavaIntensive)    | Java training projects                              | Java, Maven, JUnit, Mockito, JCommander, JCDP, Postgresql, HSQLDB |
+| [SQL_Intensive](https://github.com/abceff/SQL_Intensive)    | SQL training projects                              | Postgresql |
 | [LinuxNetwork](https://github.com/abceff/LinuxNetwork)    | Training project on network configuration on Linux virtual machines                              | Linux, ipcalc, netstat, iperf3, iptables, nmap, dhcp server, apache2, ssh |
 | [LinuxMonitoring](https://github.com/abceff/LinuxMonitoring) | Training project on bash scripting and system research                                           | Linux, Bash, vmstat, find, du, grep, awk, sort, time                      |
 | [Docker](https://github.com/abceff/Docker)          | Training project on developing docker image with server                                          | Docker, Bash, C, FastCgi, nginx, Dockle, Docker Compose                   |
