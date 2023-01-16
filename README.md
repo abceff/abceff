@@ -6,6 +6,9 @@
 ### Projects I've worked on
 | Project name    | Description                                                                                      | Tools                                                                     |
 |-----------------|--------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------|
+| [SmartCalcJava](https://github.com/abceff/SmartCalcJava) | Implementation of a calculator with a user interface, mathematical functions and plotting graphs | Java, Swing, C++
+| [JavaIntensive](https://github.com/abceff/JavaIntensive)    | Java training projects                              | Java, Maven, Spring, JUnit, Mockito, Postgresql, HSQLDB |
+| [SQL_Intensive](https://github.com/abceff/SQL_Intensive)    | SQL training projects                              | Postgresql |
 | [MLP](https://github.com/abceff/MLP)             | Program for training and testing a neural network to determine letters                           | C++, Make, QT, GoogleTest                                                 |
 | [MazeAndCave](https://github.com/abceff/MazeAndCave)     | Generating beautiful mazes and caves                                                             | C++, Make, QT, GoogleTest                                                 |
 | [3DViewer](https://github.com/abceff/3DViewer)        | Program for viewing 3d objects                                                                   | C++, Make, QT, OpenGL, GoogleTest                                         |
@@ -21,8 +24,6 @@
 | [math.h](https://github.com/abceff/math.h)          | Implementation of some functions of the math.h library                                           | C, Make, Check tests                                                      |
 | [SimpleBashUtils](https://github.com/abceff/SimpleBashUtils) | Implementation of of Bash text utilities: cat, grep                                              | C, Make, Check tests                                                      |
 | [string.h](https://github.com/abceff/string.h)        | Implementation of some functions of the string.h library                                         | C, Make, Check tests                                                      |
-| [JavaIntensive](https://github.com/abceff/JavaIntensive)    | Java training projects                              | Java, Maven, Spring, JUnit, Mockito, Postgresql, HSQLDB |
-| [SQL_Intensive](https://github.com/abceff/SQL_Intensive)    | SQL training projects                              | Postgresql |
 | [LinuxNetwork](https://github.com/abceff/LinuxNetwork)    | Training project on network configuration on Linux virtual machines                              | Linux, ipcalc, netstat, iperf3, iptables, nmap, dhcp server, apache2, ssh |
 | [LinuxMonitoring](https://github.com/abceff/LinuxMonitoring) | Training project on bash scripting and system research                                           | Linux, Bash, vmstat, find, du, grep, awk, sort, time                      |
 | [Docker](https://github.com/abceff/Docker)          | Training project on developing docker image with server                                          | Docker, Bash, C, FastCgi, nginx, Dockle, Docker Compose                   |
