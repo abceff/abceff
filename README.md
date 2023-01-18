@@ -18,7 +18,6 @@
 | [IO-Files](https://github.com/abceff/IO-Files) | Using input-output in Java | Java
 | [Collections](https://github.com/abceff/OOP-Collections) | Modeling the operation of various collections | Java
 | [ManagementStructuresAndArrays](https://github.com/abceff/ManagementStructuresAndArrays) | Solving both trivial and more challenging business tasks using basic Java language constructs | Java
-| [JavaIntensive](https://github.com/abceff/JavaIntensive)    | Java training projects | Java, Maven, Spring, JUnit, Mockito, Postgresql, HSQLDB |
 | [SQL_Intensive](https://github.com/abceff/SQL_Intensive)    | SQL training projects | Postgresql |
 | [MLP](https://github.com/abceff/MLP) | Program for training and testing a neural network to determine letters                           | C++, Make, QT, GoogleTest                                                 |
 | [MazeAndCave](https://github.com/abceff/MazeAndCave)     | Generating beautiful mazes and caves                                                             | C++, Make, QT, GoogleTest                                                 |
