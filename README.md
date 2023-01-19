@@ -25,6 +25,10 @@
 ![Docker](https://img.shields.io/badge/-Docker-1E7775?style=for-the-badge&logo=Docker&logoColor=6296CC)
 ![GitlabCICD](https://img.shields.io/badge/-GitlabCICD-1E7775?style=for-the-badge&logo=GitlabCICD&logoColor=6296CC)
 
+### Leetcode Stats:
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/abceff?theme=light)
+
 
 ### Projects I've worked on
 | Project name | Description | Tools |
