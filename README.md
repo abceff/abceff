@@ -32,7 +32,7 @@
 ### Projects I've worked on
 | Project name | Description | Tools |
 |-|-|-|
-| [SmartCalcJava](https://github.com/abceff/SmartCalcJava) | Implementation of a calculator with a user interface, mathematical functions and plotting graphs | Java, Swing, JNI, C++
+| [SmartCalcJava](https://github.com/abceff/SmartCalcJava) | Implementation of a calculator with a user interface, mathematical functions and plotting graphs | Java, Maven, Swing, JNI, C++
 | [Sockets](https://github.com/abceff/Sockets) | Client-server application based on Java—Sockets API | Java, Maven, Spring, JDBC, Postgresql
 | [Spring](https://github.com/abceff/Spring) | Enterprise-level Java development and the basics of the Spring framework | Java, Maven, Spring, JDBC, HikariCP, Postgresql, HSQLDB
 | [Reflection](https://github.com/abceff/Reflection) | Developing frameworks that use the reflection mechanism | Java, Maven, JDBC, HikariCP, Postgresql
