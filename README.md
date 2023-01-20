@@ -1,5 +1,5 @@
 ### Hi there 👋
-### I write code in C++ and Java
+### I write code in Java
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abceff&show_icons=true)
 
 ### Languages and tools
