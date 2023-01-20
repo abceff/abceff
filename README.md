@@ -1,7 +1,6 @@
 ### Hi there 👋
 ### I write code in C++ and Java
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abceff&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abceff&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Languages and tools
 ![Java](https://img.shields.io/badge/Java-1E7775?style=for-the-badge&logo=java&logoColor=E9D54D)
