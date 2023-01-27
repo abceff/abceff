@@ -9,6 +9,7 @@
 ![Maven](https://img.shields.io/badge/-Maven-1E7775?style=for-the-badge&logo=apache&logoColor=6296CC)
 ![JUnit](https://img.shields.io/badge/-JUnit5-1E7775?style=for-the-badge&logo=JUnit5&logoColor=F88C00)
 ![JDBC](https://img.shields.io/badge/-JDBC-1E7775?style=for-the-badge&logo=JDBC&logoColor=6296CC)
+![Hibernate](https://img.shields.io/badge/-Hibernate-1E7775?style=for-the-badge&logo=Hibernate&logoColor=6296CC)
 ![Postgres](https://img.shields.io/badge/-PostgreSQL-1E7775?style=for-the-badge&logo=PostgreSQL&logoColor=6296CC)
 
 
