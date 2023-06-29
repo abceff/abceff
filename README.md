@@ -1,6 +1,5 @@
 ### Hi there 👋
 ### I write code in Java
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abceff&show_icons=true)
 
 ### Languages and tools
 ![Java](https://img.shields.io/badge/Java-1E7775?style=for-the-badge&logo=java&logoColor=E9D54D)
